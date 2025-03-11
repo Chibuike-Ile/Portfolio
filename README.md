@@ -19,7 +19,8 @@ src="https://img.shields.io/github/followers/Chibuike Ile?logo=github&style=for-
 </p>
 
 ### Socials
-![image](https://github.com/user-attachments/assets/596783ab-d0c6-481a-93a4-eed4e5904e21)
+
+![image](https://github.com/user-attachments/assets/a0177ab7-0bac-4810-801d-f59430da4d69)
 
 https://www.linkedin.com/in/chibuike-ile-40939726a/
 ### Badges
