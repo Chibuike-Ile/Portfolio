@@ -14,6 +14,8 @@ I'm a skilled and detail-oriented Data Analyst with a strong enthusiasm for tran
 * 🌍  I'm based in United Kingdom
   
 * 📧 **Email**: chibuikeile@gmail.com
+
+* 🚀 Portfolio: https://sites.google.com/view/chibuikeile
  
 ## 💼 Skills & Tools
 
